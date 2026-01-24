@@ -27,5 +27,25 @@ Ce projet permet également de **valoriser mon parcours, mes compétences et mes
 
 ### Frontend
 **React** est utilisé comme bibliothèque pour développer l’interface utilisateur.  
-React est une bibliothèque JavaScript moderne qui permet de construire des interfaces utilisateur dynamiques et interactives.
+- React est une bibliothèque JavaScript moderne qui permet de construire des interfaces utilisateur dynamiques et interactives.
+- React, c’est une boîte à outils en JavaScript pour créer l’interface d’un site ou d’une application web.
+- Il sert à afficher ce que l’utilisateur voit (boutons, images, textes, formulaires…).
+- Il rend les sites rapides et interactifs.
+- Il utilise des blocs appelés composPourquoi utiliser React ?
+
+React permet aux développeurs de créer de grandes applications web qui peuvent modifier les données, Pourquoi utiliser React ?
+Qu'est-ce que ReactJS et pourquoi devrions-nous utiliser ...
+React permet aux développeurs de créer de grandes applications web qui peuvent modifier les données, sans avoir à recharger la page. L'objectif principal de React est d'être rapide, évolutif et simple.
+sans avoir à recharger la page. L'objectif principal de React est d'être rapide, évolutif et simple.
+
+But :
+Le but de ce projet est de :
+Apprendre et pratiquer React en structurant un projet avec des composants et des fichiers de style séparés.
+réer une application web modulaire et réactive où les éléments de l’interface peuvent être facilement mis à jour ou réutilisés.
+Démontrer l’utilisation de CSS pour le design et l’interaction utilisateur.
+
+Fonctionnement :
+Chaque composant de l’application (ex : bouton, header, page) est défini dans un fichier .jsx.
+Les styles sont séparés dans des fichiers .css pour garder le projet organisé.
+L’application est dynamique : elle peut changer l’affichage en fonction des actions de l’utilisateur (ex : cliquer sur un bouton).
 
